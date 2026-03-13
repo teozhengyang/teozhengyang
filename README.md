@@ -4,14 +4,14 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
 ```yaml
 name: Zheng Yang
 education: Computer Science @ NUS
 focus_areas: [Database Systems, Artificial Intelligence]
-current_role: Software Engineer Intern @ GovTech 🇸🇬
-next_chapter: Software Engineer @ DBS 🏦
+current_role: Software Engineer Intern @ GovTech
+next_chapter: Software Engineer @ DBS
 ```
 
 [![Website](https://img.shields.io/badge/🌐_Website-teozhengyang.com-6366F1?style=flat-square)](https://teozhengyang.com/)
@@ -20,7 +20,7 @@ next_chapter: Software Engineer @ DBS 🏦
 
 ---
 
-## 🔨 What I'm Building
+## What I'm Building
 
 🎮 **Games** — *(add a short description here!)*
 
@@ -30,16 +30,16 @@ next_chapter: Software Engineer @ DBS 🏦
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**💬 Languages**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**🎨 Frontend**
+**Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -48,25 +48,25 @@ next_chapter: Software Engineer @ DBS 🏦
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-**⚙️ Backend**
+**Backend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**🗄️ Databases**
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**☁️ DevOps**
+**DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-**🧠 AI / ML**
+**AI / ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -74,7 +74,7 @@ next_chapter: Software Engineer @ DBS 🏦
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=teozhengyang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teozhengyang&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
