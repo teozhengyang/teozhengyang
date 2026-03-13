@@ -22,11 +22,7 @@ next_chapter: Software Engineer @ DBS
 
 ## What I'm Building
 
-🎮 **Games** — *(add a short description here!)*
-
-🤖 **Programming Helper** — *(add a short description here!)*
-
-💰 **Finance Tracker** — *(add a short description here!)*
+<img src="projects.svg" width="100%"/>
 
 ---
 
