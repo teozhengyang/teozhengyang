@@ -46,9 +46,5 @@
   <circle cx="608" cy="108" r="1.2" fill="#06B6D4" opacity="0.25"/>
   <circle cx="616" cy="108" r="1.2" fill="#06B6D4" opacity="0.15"/>
   <text x="340" y="75" text-anchor="middle" font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif" font-size="36" font-weight="700" letter-spacing="-0.5" fill="#E8E7FF">Zheng Yang</text>
-  <rect x="220" y="83" width="240" height="1.5" rx="1" fill="url(#accent-line)"/>
-  <text x="340" y="108" text-anchor="middle" font-family="'Segoe UI', 'SF Pro Text', Arial, sans-serif" font-size="13" font-weight="400" letter-spacing="2.5" fill="#9896B8">SOFTWARE ENGINEER  ·  NUS  ·  SINGAPORE</text>
-  <rect x="282" y="126" width="116" height="18" rx="9" fill="#1E1E28" stroke="#6366F1" stroke-width="0.8" stroke-opacity="0.5"/>
-  <circle cx="296" cy="135" r="3.5" fill="#22C55E"/>
-  <text x="307" y="139" font-family="'Segoe UI', Arial, sans-serif" font-size="10" font-weight="500" fill="#9896B8" letter-spacing="0.5">open to connect</text>
+  <text x="340" y="108" text-anchor="middle" font-family="'Segoe UI', 'SF Pro Text', Arial, sans-serif" font-size="13" font-weight="400" letter-spacing="2.5" fill="#9896B8"> SOFTWARE ENGINEER</text>
 </svg>
