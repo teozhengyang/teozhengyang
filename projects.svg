@@ -36,8 +36,6 @@
   <line x1="32" y1="102" x2="176" y2="102" stroke="#6366F1" stroke-width="0.5" stroke-opacity="0.3"/>
   <text x="104" y="120" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#9896B8">A catalog of retro &amp;</text>
   <text x="104" y="135" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#9896B8">word games to play</text>
-  <rect x="54" y="158" width="100" height="22" rx="11" fill="#6366F1" fill-opacity="0.12" stroke="#6366F1" stroke-width="0.6" stroke-opacity="0.4"/>
-  <text x="104" y="173" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#6366F1" opacity="0.9">View Repo</text>
 
   <!-- Card 2: Coding Resources -->
   <rect x="236" y="8" width="208" height="184" rx="12" fill="url(#card-bg)" stroke="#06B6D4" stroke-width="0.8" stroke-opacity="0.4"/>
@@ -52,8 +50,6 @@
   <line x1="260" y1="102" x2="420" y2="102" stroke="#06B6D4" stroke-width="0.5" stroke-opacity="0.3"/>
   <text x="340" y="120" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#9896B8">Curated programming</text>
   <text x="340" y="135" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#9896B8">resources &amp; references</text>
-  <rect x="286" y="158" width="108" height="22" rx="11" fill="#06B6D4" fill-opacity="0.1" stroke="#06B6D4" stroke-width="0.6" stroke-opacity="0.4"/>
-  <text x="340" y="173" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#06B6D4" opacity="0.9">View Repo</text>
 
   <!-- Card 3: Finance Tracker -->
   <rect x="464" y="8" width="208" height="184" rx="12" fill="url(#card-bg)" stroke="#22C55E" stroke-width="0.8" stroke-opacity="0.4"/>
@@ -70,6 +66,4 @@
   <line x1="488" y1="102" x2="648" y2="102" stroke="#22C55E" stroke-width="0.5" stroke-opacity="0.3"/>
   <text x="568" y="120" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#9896B8">Track expenses &amp;</text>
   <text x="568" y="135" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#9896B8">manage your budget</text>
-  <rect x="514" y="158" width="108" height="22" rx="11" fill="#22C55E" fill-opacity="0.1" stroke="#22C55E" stroke-width="0.6" stroke-opacity="0.4"/>
-  <text x="568" y="173" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#22C55E" opacity="0.9">View Repo</text>
 </svg>
