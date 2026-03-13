@@ -1,0 +1,75 @@
+<svg width="100%" viewBox="0 0 680 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="card-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#16161E"/>
+      <stop offset="100%" stop-color="#0F0F14"/>
+    </linearGradient>
+    <linearGradient id="g-games" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6366F1" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="g-code" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="g-finance" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22C55E" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#22C55E" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card 1: Games -->
+  <rect x="8" y="8" width="208" height="184" rx="12" fill="url(#card-bg)" stroke="#6366F1" stroke-width="0.8" stroke-opacity="0.4"/>
+  <rect x="8" y="8" width="208" height="184" rx="12" fill="url(#g-games)"/>
+  <rect x="8" y="8" width="208" height="2" rx="1" fill="#6366F1" opacity="0.7"/>
+  <rect x="76" y="32" width="56" height="40" rx="20" fill="#6366F1" opacity="0.15" stroke="#6366F1" stroke-width="1" stroke-opacity="0.5"/>
+  <circle cx="104" cy="52" r="8" fill="#6366F1" opacity="0.3"/>
+  <circle cx="104" cy="52" r="4" fill="#6366F1" opacity="0.8"/>
+  <rect x="100" y="40" width="8" height="6" rx="2" fill="#6366F1" opacity="0.6"/>
+  <circle cx="88" cy="58" r="3" fill="#6366F1" opacity="0.5"/>
+  <circle cx="120" cy="58" r="3" fill="#6366F1" opacity="0.5"/>
+  <circle cx="104" cy="62" r="3" fill="#6366F1" opacity="0.5"/>
+  <rect x="20" y="20" width="4" height="4" rx="1" fill="#6366F1" opacity="0.3"/>
+  <rect x="28" y="20" width="4" height="4" rx="1" fill="#6366F1" opacity="0.2"/>
+  <rect x="24" y="26" width="4" height="4" rx="1" fill="#6366F1" opacity="0.15"/>
+  <text x="104" y="92" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="700" fill="#E8E7FF">Game Catalog</text>
+  <line x1="32" y1="102" x2="176" y2="102" stroke="#6366F1" stroke-width="0.5" stroke-opacity="0.3"/>
+  <text x="104" y="120" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#9896B8">A catalog of retro &amp;</text>
+  <text x="104" y="135" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#9896B8">word games to play</text>
+  <rect x="54" y="158" width="100" height="22" rx="11" fill="#6366F1" fill-opacity="0.12" stroke="#6366F1" stroke-width="0.6" stroke-opacity="0.4"/>
+  <text x="104" y="173" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#6366F1" opacity="0.9">View Repo</text>
+
+  <!-- Card 2: Coding Resources -->
+  <rect x="236" y="8" width="208" height="184" rx="12" fill="url(#card-bg)" stroke="#06B6D4" stroke-width="0.8" stroke-opacity="0.4"/>
+  <rect x="236" y="8" width="208" height="184" rx="12" fill="url(#g-code)"/>
+  <rect x="236" y="8" width="208" height="2" rx="1" fill="#06B6D4" opacity="0.7"/>
+  <rect x="304" y="32" width="56" height="40" rx="8" fill="#06B6D4" opacity="0.1" stroke="#06B6D4" stroke-width="1" stroke-opacity="0.4"/>
+  <text x="332" y="58" text-anchor="middle" font-family="'Courier New', monospace" font-size="18" font-weight="700" fill="#06B6D4" opacity="0.8">&lt;/&gt;</text>
+  <circle cx="248" cy="24" r="2" fill="#06B6D4" opacity="0.3"/>
+  <circle cx="256" cy="24" r="2" fill="#06B6D4" opacity="0.2"/>
+  <circle cx="264" cy="24" r="2" fill="#06B6D4" opacity="0.15"/>
+  <text x="340" y="92" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="700" fill="#E8E7FF">Coding Resources</text>
+  <line x1="260" y1="102" x2="420" y2="102" stroke="#06B6D4" stroke-width="0.5" stroke-opacity="0.3"/>
+  <text x="340" y="120" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#9896B8">Curated programming</text>
+  <text x="340" y="135" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#9896B8">resources &amp; references</text>
+  <rect x="286" y="158" width="108" height="22" rx="11" fill="#06B6D4" fill-opacity="0.1" stroke="#06B6D4" stroke-width="0.6" stroke-opacity="0.4"/>
+  <text x="340" y="173" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#06B6D4" opacity="0.9">View Repo</text>
+
+  <!-- Card 3: Finance Tracker -->
+  <rect x="464" y="8" width="208" height="184" rx="12" fill="url(#card-bg)" stroke="#22C55E" stroke-width="0.8" stroke-opacity="0.4"/>
+  <rect x="464" y="8" width="208" height="184" rx="12" fill="url(#g-finance)"/>
+  <rect x="464" y="8" width="208" height="2" rx="1" fill="#22C55E" opacity="0.7"/>
+  <rect x="532" y="32" width="56" height="40" rx="8" fill="#22C55E" opacity="0.1" stroke="#22C55E" stroke-width="1" stroke-opacity="0.4"/>
+  <rect x="543" y="55" width="8" height="10" rx="2" fill="#22C55E" opacity="0.5"/>
+  <rect x="556" y="48" width="8" height="17" rx="2" fill="#22C55E" opacity="0.65"/>
+  <rect x="569" y="43" width="8" height="22" rx="2" fill="#22C55E" opacity="0.8"/>
+  <polyline points="543,54 556,47 569,42 577,44" fill="none" stroke="#22C55E" stroke-width="1.2" stroke-opacity="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="472" y="20" width="4" height="4" rx="1" fill="#22C55E" opacity="0.3"/>
+  <rect x="480" y="20" width="4" height="4" rx="1" fill="#22C55E" opacity="0.2"/>
+  <text x="568" y="92" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="700" fill="#E8E7FF">Finance Tracker</text>
+  <line x1="488" y1="102" x2="648" y2="102" stroke="#22C55E" stroke-width="0.5" stroke-opacity="0.3"/>
+  <text x="568" y="120" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#9896B8">Track expenses &amp;</text>
+  <text x="568" y="135" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#9896B8">manage your budget</text>
+  <rect x="514" y="158" width="108" height="22" rx="11" fill="#22C55E" fill-opacity="0.1" stroke="#22C55E" stroke-width="0.6" stroke-opacity="0.4"/>
+  <text x="568" y="173" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#22C55E" opacity="0.9">View Repo</text>
+</svg>
