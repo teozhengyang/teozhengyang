@@ -20,6 +20,12 @@ next_chapter: Software Engineer @ DBS
 
 ---
 
+## What I'm Building
+
+<img src="projects.svg" width="100%"/>
+
+---
+
 ## Tech Stack
 
 **Languages**
