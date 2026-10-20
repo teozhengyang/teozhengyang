@@ -18,14 +18,6 @@ next_chapter: Software Engineer @ DBS
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-teozhengyang-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teozhengyang/)
 [![Gmail](https://img.shields.io/badge/Gmail-teozhengyang%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:teozhengyang@gmail.com)
 
----
-
-## What I'm Building
-
-<img src="projects.svg" width="100%"/>
-
----
-
 ## Tech Stack
 
 **Languages**
