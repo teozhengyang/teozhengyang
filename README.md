@@ -10,8 +10,7 @@
 name: Zheng Yang
 education: Computer Science @ NUS
 focus_areas: [Database Systems, Artificial Intelligence]
-current_role: Software Engineer Intern @ GovTech
-next_chapter: Software Engineer @ DBS
+current_role: Software Engineer @ DBS
 ```
 
 [![Website](https://img.shields.io/badge/🌐_Website-teozhengyang.com-6366F1?style=flat-square)](https://teozhengyang.com/)
