@@ -9,7 +9,6 @@
 ```yaml
 name: Zheng Yang
 education: Computer Science @ NUS
-focus_areas: [Database Systems, Artificial Intelligence]
 current_role: Software Engineer @ DBS
 ```
 
